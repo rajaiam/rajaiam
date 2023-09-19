@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raja M(@rajaiam) - working as SRE-Cloud Specialist in Microfocus 
+- 👋 Hi, I’m Raja M(@rajaiam) - working as Lead SRE-Cloud Specialist in Microfocus 
 - 👀 I’m interested in working terraform & terragrunt automation, Cloud technologies(AWS/GCP/Azure) and Python.
 - 🌱 I’m currently learning advanced terraform configuration, CKS, AWS Sysops and GoLang
 - 💞️ I’m looking to collaborate on ...
