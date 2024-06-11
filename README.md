@@ -9,7 +9,7 @@
   </a>
 </div>
 
-- 👋 Hello Everyone, I’m Raja M(@rajaiam) - working as **Lead SRE-Cloud Specialist** in OpenText(Microfocus).
+- 👋 Hello Everyone, I’m Raja M(@rajaiam) - working as **Senior SRE** in OpenText(Microfocus).
 - 👀 I’m interested in working **terraform & terragrunt automation, Github Actions, Gitlab, Cloud technologies(AWS/GCP/Azure) and Python**.
 - 🌱 I’m currently learning advanced **terraform, terragrunt configuration, CKS, Advanced Python, AWS DevOps and GoLang.**
 - 💞️ I’m looking to collaborate on ...
