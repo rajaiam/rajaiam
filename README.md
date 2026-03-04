@@ -9,9 +9,8 @@
   </a>
 </div>
 
-- 👋 Hello Everyone, I’m Raja M(@rajaiam) - working as **Senior SRE** in OpenText(Microfocus).
-- 👀 I’m interested in working **terraform & terragrunt automation, Github Actions, Gitlab, Cloud technologies(AWS/GCP/Azure) and Python**.
-- 🌱 I’m currently learning advanced **terraform, terragrunt configuration, CKS, Advanced Python, AWS DevOps and GoLang.**
+- 👋 Hello Everyone, I’m Raja M(@rajaiam) - working as **Lead Software Engineer - DevOps** in OpenText(Microfocus).
+- 👀 I’m currently working **AWS, EKS, Kubernetes, terraform & terragrunt automation, Gitlab CI/CD, Helm, Cloud technologies(AWS/GCP/Azure) and Python**
 - 💞️ I’m looking to collaborate on ...
 
 <!---
